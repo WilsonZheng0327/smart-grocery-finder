@@ -12,4 +12,4 @@ Running the website locally on XAMPP:
 5. Go to "http://localhost/smart_grocery_finder/login.php"
 
 
-![Sample](https://github.com/user-attachments/assets/aa0096b7-3009-463d-a103-8609a1c2ea72)
+![Alt text](images/Sample.png)
