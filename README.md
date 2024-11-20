@@ -3,7 +3,7 @@ User input-driven web application aimed to make finding and comparing groceries 
 Written in PHP and JavaScript.\
 Originally deployed on Google Cloud Platform.
 
-Running the website locally on XAMPP:\
+Running the website locally on XAMPP:
 
 1. Download XAMPP
 2. Clone this repo under XAMPP/htdocs
