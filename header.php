@@ -68,7 +68,7 @@ if($_SERVER["REQUEST_METHOD"] == "POST" && isset($_POST['logout-btn'])) {
                         <a href="write_review.php" id="reviewBtn" name="reviewBtn" 
                         class="btn btn-primary" title="write review form">Write A Review</a>
                         <div class="profile-dropdown">
-                            <button class="profile-btn" onclick="toggleProfileMenu(event)">User</button>
+                            <button class="profile-btn" onclick="toggleProfileMenu(event)"></button>
                             <div class="profile-menu" id="profileMenu">
                                 <a href="my_profile.php">Edit Profile</a>
                                 <a href="my_favorites.php">My Favorites</a>
