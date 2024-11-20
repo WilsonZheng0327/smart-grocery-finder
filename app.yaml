@@ -1,0 +1,11 @@
+# Use the PHP 8.1 runtime
+runtime: php81
+
+handlers:
+- url: /css
+  static_dir: css
+
+- url: /.*
+  script: auto
+
+entrypoint: serve index.php
